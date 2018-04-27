@@ -39,6 +39,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'django_extensions',
     'blog',
+    'taggit',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -107,7 +108,7 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = (
             os.path.join(BASE_DIR, 'static'),
             )
-
+MEDIA_URL='/media/'
 #EMAIL
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'vickyhovey@gmail.com'

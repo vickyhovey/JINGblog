@@ -2,7 +2,7 @@ body {
     margin:0;
     padding:0;
     font-family:helvetica, sans-serif;
-    background-color:#9E7A7A;
+    background-color: azure;
 }
 
 a {
@@ -38,7 +38,7 @@ h2 {
     float:right;
     width:30%;
     padding:10px;
-    background:#FEDFE1;
+    background-color:#FEDFE1;
     height:100%;
     border: 2px solid #8E354A;
     border-radius: 25px;
