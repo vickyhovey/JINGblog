@@ -1,1 +1,1 @@
-# jingblog
+# blog
